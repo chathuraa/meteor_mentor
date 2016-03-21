@@ -20,3 +20,7 @@ kadira:flow-router
 meteorhacks:flow-layout
 accounts-meteor-developer
 accounts-ui
+twbs:bootstrap
+aldeed:simple-schema
+aldeed:collection2
+aldeed:autoform
